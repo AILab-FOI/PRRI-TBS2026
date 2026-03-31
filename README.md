@@ -1,13 +1,13 @@
-# PRRI-TBD2026
+# PRRI-CC2026
 
-A custom campaign for The Battle for Wesnoth developed by students and the [Artificial Intelligence Laboratory](https://ai.foi.hr/) at the [University of Zagreb Faculty of Organization and Informatics](https://www.foi.unizg.hr/). The game is developed using Roblox Studio. More details available at [itch.io](https://ailab-foi.itch.io/prri-tbd2026).
+A custom campaign for The Battle for Wesnoth developed by students and the [Artificial Intelligence Laboratory](https://ai.foi.hr/) at the [University of Zagreb Faculty of Organization and Informatics](https://www.foi.unizg.hr/). The game is developed using Battle for Wesnoth's WML engine. More details available at [itch.io](https://ailab-foi.itch.io/prri-tbd2026).
 
 
 # Croatian Mythology Campaign for The Battle for Wesnoth
 
-⚔️ **Campaign name:** *TBD*  
+⚔️ **Campaign name:** *Croatian chronicles*  
 📜 **Theme:** Stories and creatures from Croatian mythology  
-🧭 **Based on:** Croatian mythological beings  
+🧭 **Based on:** Croatian mythological beings from folklore 
 🔗 Mythology reference: https://prirodamitovi.eu/hr/nadnaravna-bica/
 
 ## 📍 About
@@ -35,7 +35,7 @@ To play this campaign locally:
 
 1. Clone or download this repository.  
 2. Copy the folder `src/data/add-ons/BattleOfVinodol/` into your Wesnoth add-ons directory (`~/.var/app/org.wesnoth.Wesnoth/data/wesnoth/[version]/data/add-ons` or equivalent).  
-3. Start Wesnoth and find *Battle of Vinodol* in the Campaigns list.
+3. Start Wesnoth and find *Croatian chronicles* in the Campaigns list.
 
 ## 📜 License
 
