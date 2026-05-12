@@ -35,6 +35,10 @@ LICENSE
 
 To play this campaign locally:
 
+Install the game Battle for wesnoth from their site or steam
+
+ Run the game once to create the Wesnoth folder under My Games
+
 1. Download the .zip file under code button
 2. Copy the folder `kronika/` into your Wesnoth add-ons directory (`[user]/Documents/My games/Wesnoth1.18/data/add-ons` or equivalent).  
 3. Start Wesnoth and find *Slavenska kronika* in the Campaigns list.
