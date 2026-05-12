@@ -35,7 +35,7 @@ LICENSE
 
 To play this campaign locally:
 
-1. Clone or download this repository.  
+1. Download the .zip file under code button
 2. Copy the folder `kronika/` into your Wesnoth add-ons directory (`[user]/Documents/My games/Wesnoth1.18/data/add-ons` or equivalent).  
 3. Start Wesnoth and find *Slavenska kronika* in the Campaigns list.
 
@@ -43,6 +43,6 @@ To play this campaign locally:
 
 This campaign is licensed under the **GNU General Public License v3.0**. See the `LICENSE` file for details.
 
-Campaign images have been generated using the img2img GPT-2 engine.
+Campaign images and character portraits have been generated using the img2img GPT-2 engine.
 
 Enjoy the thrilling story and adventure!
